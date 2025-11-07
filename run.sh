@@ -1,3 +1,4 @@
+# This flag makes the script break for undefined variables
 set -u
 
 input_dir=$1
